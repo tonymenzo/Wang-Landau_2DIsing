@@ -1,4 +1,4 @@
-Final Project - Wang Landau Sampling of the 2D Ising Model
+Wang Landau Sampling of the 2D Ising Model
 
 Programmer: Tony Menzo
 Last Modified: 4/27/2018
@@ -7,7 +7,7 @@ Summary: This program takes a spin 1/2 two-dimensional lattice and implements th
 Once this function is determined it is reletively straightforward to calculate the partition function of the ensemble along with other thermodynamic variables such as internal energy, Cv (specific heat), entropy, and Gibbs free energy.
 
 
-Welcome!!!! You are about to explore my program implementing WL sampling!
+Welcome! You are about to explore my program implementing WL sampling
 
 Here is a guide
 
@@ -65,6 +65,5 @@ Printing data
 Fitting 
 I would also like to generalize the program to include 1D and 3D lattices. 
 
-Thank you for for your help and guidance this semester. This has been my favorite course of my undergraduate career!!!
 
  
