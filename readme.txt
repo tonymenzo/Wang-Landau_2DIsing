@@ -1,7 +1,7 @@
 Wang Landau Sampling of the 2D Ising Model
 
 Programmer: Tony Menzo
-Last Modified: 4/27/2018
+
 
 Summary: This program takes a spin 1/2 two-dimensional lattice and implements the Wang-Landau(WL) sampling algorithm to determine the density of states "function" for the system. This algorithm is an alternative to the popular Metropolis algorithm. The main difference between the two is that in WL sampling the random walk is performed in energy space. 
 Once this function is determined it is reletively straightforward to calculate the partition function of the ensemble along with other thermodynamic variables such as internal energy, Cv (specific heat), entropy, and Gibbs free energy.
